@@ -1,0 +1,88 @@
+Alguns conceitos:
+
+UI - User interface - Meio no qual o consumidor interage com a app/page
+
+UX- User experience - Como o utilizador interage com a app/page
+
+(Dois conceitos diferentes)
+
+Wireframe - Esboço do layout de uma app/página
+- Sitemap - Primeiro passo de um wireframe
+
+CTA - Call to action
+
+Lorum Ipsen - Texto filler
+
+Hierarquia visual - Orientação do leitor através de pistas visuais
+
+Color list/Style list - Padrão definido para facilitar o design 
+
+
+Para escolher icons:
+Computadores - 16 pixels 
+
+Telemóveis - 14 pixels 
+
+
+“Componentes” - elementos que aparecem repetidos ao longo do projeto
+- Parent/Master component - padrão de onde os outros componentes devem derivar 
+
+
+HTML (Hyper Text Markup language) - Estrutura
+- Vamos trabalhar em visual studio Code e basicamente serve para criar o esqueleto.
+
+- “Tags” - Elementos da pagina (<nome de elemento> Conteúdo </nome de elemento>).                       Opening tag
+          Closing tag
+
+- Estrutura básica de html consiste em “avisar” browser que é um doc html <!DOCTYPE html>, a linguagem (PT-PT), Head e body e por fim fechar outra vez em html
+
+- Listas: <ol> organizada; <ul> não organizada; <dl> lista descritiva
+
+- Atributos - determinadas direções
+
+- Para multiplicar mais facilmente: <li*3>, o * funciona como multiplicador
+
+- HTML semântico
+
+- Usar Post no “method” formularios em vez de get, sendo que get é para coisas mais pesadas e não pode ser utilizado para dados confidenciais, ver melhor nos PowerPoints (?)
+
+
+Design - CSS (cascading style sheets)
+- Trata de estilizar as páginas
+
+- Tres maneiras de inserir CSS (inline;internal;external)
+
+- Seletores: Seletor de elemento (todos os elementos de um tipo); Seletor de classes (apenas uma certa class; utilizar sempre hifen em vez de espaço ao nomear as class); seletor de ID) 
+
+- Combinators (ver melhor no powerpoint e praticar)
+
+- Especificidade: a hierarquia
+
+- O “*” dá reste aos tamanhos padrões do browser 
+
+- A responsividade: capacite de se adaptar a diferentes ecrãs. 
+
+- (Flexbox) - ver diferentes comandos nos recursos de aula
+
+- Align-content: o espaço entre os elementos; por exemplo diferentes roas do wrap
+
+Interatividade - JavaScript
+
+
+Lógica de programação:
+
+Algoritmo & Pseudocódigo
+-algoritmo: conjunto de passos para resolver um determinado problema (passos de uma receita seria o algoritmo)
+
+-pseudocódigo: forma de escrever o algoritmo
+
+Operadores :
+- Matemáticos (módulo: dá a paridade através do resto da divisão; um = atribui um valor, por isso usa-se == para atribuir semelhança)
+- Relacionais
+- Lógicos 
+- De atribuição (+=; -=; *=; /=; isto é equivalente a+=b  = a=a+b)
+- Incremento e decremento (++ ou  - - )
+- CONSULTAR O POWERPOINT PARA OPERADORES DE COMPARAÇÂO
+- nota: o boolean quando é convertido para números é 1 ou 0, 1=verdadeiro, 0=falso.
+
+
